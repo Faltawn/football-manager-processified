@@ -29,6 +29,7 @@ To reflect your team getting better, I suggest changing the thresholds for good/
 - https://community.sigames.com/forums/topic/518845-lone-striker/
 - https://www.footballmanager.com/the-byline/get-most-your-strikers-wednesday-wisdom
 - https://www.youtube.com/watch?v=khgaeCJJQOg
+- Players ironically seem to develop faster in [inactive leagues > view-only leagues > active leagues](https://youtu.be/RwTSamdwi_E?t=1069)
 
 ### Further suggestions
 Maybe you should not stuff your entire U19 full of players (just ones that might be very good), because otherwise they will not play games. They probably need it to develop.
