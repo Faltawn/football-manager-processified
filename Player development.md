@@ -4,7 +4,7 @@ This deviates a little bit from the guide by SFraser. However, the main point st
 
 The idea of the recruitment/development is as follows:
 - Buy high potential players as young as possible
-- Loan them out in the last window before they turn 20: CA gain seems to decelarate afterwards (see p. 3 of [Pattern_of_player_growth_in_FM23.pdf](https://github.com/Faltawn/football-manager-processified/files/11814988/Pattern_of_player_growth_in_FM23.pdf))
+- Loan them out in the last window before they turn 20: CA gain seems to decelerate afterwards (see p. 3 of [Pattern_of_player_growth_in_FM23.pdf](https://github.com/Faltawn/football-manager-processified/files/11814988/Pattern_of_player_growth_in_FM23.pdf))
 - Let them stay in your youth team for two years
 	- This way, they will be flagged as U21 once they return from loan
 	- According to some help tip, players under a certain age (I think 18 and younger) gain the most from training (unsure if this is really true), and they might as well be in the best training facilities possible.
