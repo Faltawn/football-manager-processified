@@ -47,3 +47,5 @@ Loans are a nice, non-permanent way of getting rid of players. Reasons can vary,
 ### Substitutions that are made to late do not contribute to player growth 
 
 https://www.youtube.com/watch?v=Uj4NgwALRUA&ab_channel=EvidenceBasedFootballManager In this same video: match results (winning, losing or drawing) does not seem to affect the amount of player growth! Just loan your players out to whoever will play them, preferably with good facilities.
+
+It would be nice to replicate the results, but with the actual amount of playing time instead of merely the number of matches.
