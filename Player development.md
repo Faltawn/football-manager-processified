@@ -43,3 +43,7 @@ Loans are a nice, non-permanent way of getting rid of players. Reasons can vary,
 - getting regular match experience
 - earning money
 - earning homegrown nation status with a domestic loan
+
+### Substitutions that are made to late do not contribute to player growth 
+
+https://www.youtube.com/watch?v=Uj4NgwALRUA&ab_channel=EvidenceBasedFootballManager
