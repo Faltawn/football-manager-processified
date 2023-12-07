@@ -7,3 +7,5 @@ The [benchmarks set by EBFM](https://youtu.be/R5Q5qREwYtI?t=770) mean that a 15 
 https://www.youtube.com/watch?v=M0rRSqInAzM&ab_channel=SecondYellowCard Scouting methods
 
 https://fm-recruitment-2ac38cc99aa0.herokuapp.com/ Player scoring system that uses Python
+
+https://www.youtube.com/watch?v=Emvbo-lLzEo This player suggests looking at Media Description of Wonderkid or Promising ..., perhaps in combination with minimum fee release clauses.
