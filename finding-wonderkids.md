@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=M0rRSqInAzM&ab_channel=SecondYellowCard Scouting
 https://fm-recruitment-2ac38cc99aa0.herokuapp.com/ Player scoring system that uses Python
 
 https://www.youtube.com/watch?v=Emvbo-lLzEo This player suggests looking at Media Description of Wonderkid or Promising ..., perhaps in combination with minimum fee release clauses.
+
+https://youtu.be/GSA0LdNQuxw?t=827 This experiment seems to indicate that if all your players have Ambition 1, the PA is capped at 140.
